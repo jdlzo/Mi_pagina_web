@@ -48,10 +48,9 @@ main, .Cabeza
     font-size: 30px; 
 }
 .imgprint img{
-    max-width: 100%;
+    max-width: 95%;
     height: auto;
     border-radius: 10px;
-    margin-left: 20px;
 }
 .imgprint
 {
@@ -60,6 +59,7 @@ main, .Cabeza
     gap: 20px;
     margin-top: 30px ;
     align-items: center;
+    padding: 10px;
 }
 @media (max-width: 600px) {
     .imgprint {
