@@ -44,6 +44,9 @@ main, .Cabeza
     padding: 30px;
     font-size: 20px;
 }
+.ques{
+    font-size: 30px; 
+}
 .imgprint img{
     width: 300px;
     height: auto;
